@@ -38,6 +38,6 @@ Setting up the lab. Most of the work lives in private repos for now, and the use
 
 <div align="center">
 
-*Made in Joburg.*
+
 
 </div>
